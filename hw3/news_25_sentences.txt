@@ -1,0 +1,25 @@
+The rise of the robot on the modern battlefield has happened so fast, it is almost breathtaking -- that is, if you are not a robot yourself.
+When the U.S. military invaded Iraq just over a decade ago, it only had a handful of unmanned systems, aka drones, in the air, and zero deployed into the ground forces.
+Today, its inventory in the air numbers well over 7,000, ranging from the now famous Predator and Reaper to the Navy's new MQ-8 Fire Scout, a helicopter drone that just completed a series of autonomous takeoffs and landing tests from the back of a guided-missile destroyer.
+On the ground, the inventory numbers some 12,000, ranging from iRobot's PackBots, used to search for roadside bombs in Afghanistan, to the U.S. Marine Corps Warfighting Lab's tests with Qinetiq's Modular Advanced Armed Robotic System, a tracked robot that mounts cameras and a machine gun.
+This revolution is by no means just an American one.
+At least 87 other countries have used military robotics of some sort, ranging from the UK to China, which has an especially fast-growing drone fleet, as shown off at its recent arms trade show.
+A number of nonstate actors have added robots to their wares as well, including most recently both sides of the Syrian civil war, as well as ISIS.
+Both sides in the Ukraine conflict are also using them.
+These robots, though, are just the start.
+If this was 100 years ago, they would be the equivalent of the Bristol TB 8, the first bomber plane, or the Mark I, the first tank used in battle.
+A host of changes awaits us.
+Their size, shape and form will move in wild and, for many, quite scary new directions.
+A future Marine squad might not just have an armed robot on the ground -- the plan is that it will also have its own microdrone, such as the PD-100 Black Hornet.
+The size of a hummingbird, it weighs 18 grams, and will allow a Marine to safely peer around a corner or sneak up on a sniper waiting to ambush the squad from the window of a five-story building down the road.
+Or, overhead might be a Zephyr, a solar-powered drone with 74-foot wings, that could stay in the air for 11 days.
+Perhaps the biggest change that looms, however, is in the robots' intelligence and autonomy.
+The early Predator-class systems were "unmanned" only in that a human wasn't inside them.
+On the ground, human operators had to remotely instruct their every function and move.
+The current versions are now more automated, able to do things like take off and land on their own, fly to various mission waypoints on their own, and carry sensors that make sense of what they are seeing for the humans.
+This next, more autonomous stage is perhaps best illustrated by the debate in Congress last year over the Navy's Unmanned Carrier-Launched Airborne Surveillance and Strike program, UCLASS for short.
+Its progenitor, the Northrop X-47 test aircraft, has been able to perform one of the toughest human pilot tasks of all -- taking off from and landing on an aircraft carrier -- and is now being tested on functions like air-to-air refueling and partnering with manned planes.
+UCLASS is the next stage of a more advanced, jet-powered and stealthy system going operational.
+But the main debate is not whether to deploy such drones as a regular part of a carrier's air wing, but how much of their role would be for reconnaissance -- or whether they would follow the natural evolution into a focus on bombing and strike missions, seeking to cause damage to any enemy they find, not just watching them.
+That is just what happened with those early manned airplanes a century ago.
+Similarly, the British are testing an unmanned system called Taranis that is not just jet-powered and stealthy but also explores new target selection software.

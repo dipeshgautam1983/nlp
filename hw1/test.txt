@@ -1,0 +1,3 @@
+hello this is test file.
+The file is created for testing purpose of python programs. If this file is working
+properly, python should be able to read the text content of it.

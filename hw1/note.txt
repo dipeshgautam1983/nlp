@@ -1,0 +1,10 @@
+
+
+Identifies all the words in a
+paragraph of text and counts how many times each word occurs. Note that
+proper words do not contain punctuation although in electronic documents 
+punctuation is attached to the words. Punctuation should be considered 
+as separate words when counting the number of words for this assignment.
+Apply the program to the following paragraph of text and  report the top
+10 most frequent words.
+

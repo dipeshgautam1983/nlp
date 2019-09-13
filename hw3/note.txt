@@ -1,0 +1,17 @@
+baseline statistical tagger.
+
+Use the hash of hashes to train a
+baseline lexicalized statistical tagger on the entire BROWN corpus.
+
+-Use the baseline lexicalized statistical tagger to tag 
+all the words in the SnapshotBROWN.pos.all.txt file. Evaluate and report the
+performance of this baseline tagger on the Snapshot file.
+
+-add few rules to handle unknown words for the tagger. The rules can be morphological, contextual, or of other
+   nature. Use 25 new sentences to evaluate this tagger, tagger +
+   unknown word rules). You can pick 25 sentences from a news article
+   from the web and report the performance on those.
+
+NOTE: You should only consider the 45 proper tags from Penn Treebank
+tagset (available in the slides). You should disregard tags such as
+-NONE-, etc.
